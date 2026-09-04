@@ -23,11 +23,11 @@
 
 I'm just getting started in data analytics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and obsessed with finding the story hidden inside messy datasets. I like turning numbers into decisions that actually mean something.
 
-- 🔭 Currently working on: *[project name — e.g. Sales Performance Dashboard]*
-- 🌱 Currently learning: *[e.g. Advanced SQL, DAX for Power BI]*
+- 🔭 Currently working on: *-*
+- 🌱 Currently learning: *Advanced SQL*
 - 💬 Ask me about: SQL, Excel, Power BI, Python for data analysis
-- 📫 Reach me: YOUR-EMAIL@example.com
-- ⚡ Fun fact: *[something personal/fun — optional]*
+- 📫 Reach me: tirthdonga18@gmail.com
+- ⚡ Fun Hobby: *Like To Watch F1*
 
 ---
 
