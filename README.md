@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Tirth Donga 👋</h1>
 
 <p align="center">
-  📊 Aspiring Data Analyst | Turning raw data into stories
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Stories;Always+Learning%2C+Always+Querying" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,13 +14,14 @@
   <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=TirthDonga&style=for-the-badge&color=2E9EF7" alt="Profile views" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-I'm just getting started in data analytics and obsessed with finding the story hidden inside messy datasets. I like turning numbers into decisions that actually mean something.
+I'm just getting started in data analytics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and obsessed with finding the story hidden inside messy datasets. I like turning numbers into decisions that actually mean something.
 
 - 🔭 Currently working on: *[project name — e.g. Sales Performance Dashboard]*
 - 🌱 Currently learning: *[e.g. Advanced SQL, DAX for Power BI]*
@@ -57,12 +58,20 @@ I'm just getting started in data analytics and obsessed with finding the story h
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TirthDonga&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TirthDonga&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TirthDonga&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TirthDonga&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthDonga&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthDonga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TirthDonga&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
