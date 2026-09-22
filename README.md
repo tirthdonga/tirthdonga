@@ -55,25 +55,4 @@ I'm just getting started in data analytics <img src="https://media.giphy.com/med
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TirthDonga&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TirthDonga&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthDonga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TirthDonga&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — let's connect and talk data! 📊</i></p>
