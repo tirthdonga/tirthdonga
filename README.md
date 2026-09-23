@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
+  <a href="https://tirthdonga.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
